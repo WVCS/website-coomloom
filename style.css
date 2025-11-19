@@ -1,3 +1,11 @@
-body {
+@charset "utf-8";
 
+body {background-color: lightcoral; }
+
+img{border: 15px dotted #E5CE52;
+border-radius: 50%}
+
+h1 {
+text-decoration: underline wavy;
+color: cyan;
 }
